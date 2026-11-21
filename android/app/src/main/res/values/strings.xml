@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">eSIM Connect</string>
+    <string name="demo_disclaimer">Demo Virtual ID Only — App-to-app internet communication. Not a real SIM or telecom line.</string>
+</resources>

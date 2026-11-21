@@ -1,0 +1,11 @@
+-- eSIM Connect Demo Seed Reference
+-- Note: The backend automatically initializes and seeds these accounts via crypto.scryptSync on first run
+-- so passwords are never stored in plaintext.
+-- Demo account local test password: esimconnect123
+-- Demo virtual numbers (+91 9000X XXXXX) are app-internal IDs only (not real PSTN or eSIM lines).
+
+-- Seeded Demo Users:
+-- 1. Aarav Sharma | ESC-IND001 | aarav@esimconnect.demo | +91 90001 10482
+-- 2. Priya Nair   | ESC-IND002 | priya@esimconnect.demo | +91 90002 44819
+-- 3. Rohan Verma  | ESC-IND003 | rohan@esimconnect.demo | +91 90003 77210
+-- 4. Ananya Iyer  | ESC-IND004 | ananya@esimconnect.demo | +91 90004 89315
